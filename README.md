@@ -1,6 +1,6 @@
 # A React App Example
 
-## Learning Goals
+## Learning Goals 
 
 - Understand the folder structure and key files for running a React application
 - Explore the structure of a basic React component
